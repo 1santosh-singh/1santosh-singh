@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://s13.gifyu.com/images/S0OsQ.gif)
+
 <h1 align="center">Hi 👋, I'm Santosh Singh</h1>
 <h3 align="center">An aspiring FUll STACK developer </h3>
-<img align="right" alt="coding" width="200px" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<img align="right" alt="coding" width="300px" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1santosh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="1santosh-singh" /> </p>
 
@@ -18,13 +19,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/1_santoshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1_santoshsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/singh_santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="singh_santosh" height="30" width="40" /></a>
-<a href="https://fb.com/santosh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_santoshhhhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santoshhhhhhhh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/highfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="highfx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/singh_santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_santosh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iamsinghszia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamsinghszia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh singh" height="30" width="40" style="margin: 5px;" /></a>
+<a href="https://stackoverflow.com/users/singh_santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="singh_santosh" height="30" width="40" style="margin: 5px "/></a>
+<a href="https://instagram.com/_santoshhhhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santoshhhhhhhh" height="30" width="40" style="margin: 5px" /></a>
+<a href="https://www.youtube.com/c/highfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="highfx" height="30" width="40" style="margin: 5px"/></a>
+<a href="https://www.leetcode.com/singh_santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_santosh" height="30" width="40" style="margin: 5px"/></a>
+<a href="https://auth.geeksforgeeks.org/user/iamsinghszia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamsinghszia" height="30" width="40" style="margin: 5px" /></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
