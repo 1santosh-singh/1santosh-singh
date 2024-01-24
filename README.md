@@ -46,12 +46,6 @@
 | Learning |<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 <br>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1santosh-singh&show_icons=true&locale=en&layout=compact" alt="1santosh-singh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1santosh-singh&show_icons=true&locale=en" alt="1santosh-singh" /></p>
