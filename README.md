@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Santosh Singh</h1>
 <h3 align="center">An aspiring FUll STACK developer </h3>
-<img align="right" alt="coding width="400px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hvns9h36j33cg7djr82czc85tur46jkuzaswobeh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding width="400px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1santosh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="1santosh-singh" /> </p>
 
@@ -27,6 +27,8 @@
 <a href="https://auth.geeksforgeeks.org/user/iamsinghszia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamsinghszia" height="30" width="40" /></a>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
@@ -44,6 +46,7 @@
 | Learning |<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <br>
 
