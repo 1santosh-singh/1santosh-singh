@@ -1,10 +1,10 @@
 ![MasterHead](https://s13.gifyu.com/images/S0OsQ.gif)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="center">Hi 👋, I'm Santosh Singh</h1>
 <h3 align="center">An aspiring FUll STACK developer </h3>
 <img align="right" alt="coding" width="300px" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1santosh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="1santosh-singh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/1_santoshsingh" target="blank"><img src="https://img.shields.io/twitter/follow/1_santoshsingh?logo=twitter&style=for-the-badge" alt="1_santoshsingh" /></a> </p>
 
@@ -38,7 +38,7 @@
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
 | Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 | Services & Tools| <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| Competitive Coding | <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| Competitive Coding | <a href="https://leetcode.com/singh_santosh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/iamsinghszia"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>  |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -47,5 +47,5 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1santosh-singh&show_icons=true&locale=en&layout=compact" alt="1santosh-singh" /></p>
+<p><img align="left" style="margin" src="https://github-readme-stats.vercel.app/api/top-langs?username=1santosh-singh&show_icons=true&locale=en&layout=compact" alt="1santosh-singh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1santosh-singh&show_icons=true&locale=en" alt="1santosh-singh" /></p>
