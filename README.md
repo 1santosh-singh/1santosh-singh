@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Santosh Singh</h1>
 <h3 align="center">An aspiring FUll STACK developer </h3>
-<img align="right" alt="coding width="400px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<img align="right" alt="coding" width="200px" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1santosh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="1santosh-singh" /> </p>
 
